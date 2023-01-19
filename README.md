@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sami Cheema.</h1>
+<h1 align="center">Hi 👋, I'm Sami Cheema</h1>
 <h3 align="center">CS undergrad at DePauw University.</h3>
 
 - 🌱 I’m currently learning **Flutter for App Development**
