@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter for App Development**
 
-- 📫 How to reach me **samicheema246@gmail.com**
+- 📫 How to reach me **contact@samicheema.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
