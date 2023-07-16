@@ -2,7 +2,7 @@
 ------------------------------------
 
 #### If You Would Like To Know More About Me (Experiences, Leadership, Story, Start-Ups, Skills), Please Visit:
-- My Portfolio Website: [View Sami's Portfolio Website]([https://samicheema.com)
+- My Portfolio Website: [View Sami's Portfolio Website](https://samicheema.com)
 - My LinkedIn Profile: [View Sami's LinkedIn Profile](https://www.linkedin.com/in/samicheema246/)
 - My Social Media Profiles: [View Sami's LinkTree](https://linktr.ee/)
 
