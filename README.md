@@ -1,23 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sami Cheema.</h1>
-<h3 align="center">CS undergrad at DePauw University</h3>
+### <u>Hi there! Thank You For Viewing My GitHub Profile And Projects!</u>
+------------------------------------
 
-- 🌱 I’m currently learning **Flutter for App Development**
+#### If You Would Like To Know More About Me (Experiences, Leadership, Story, Start-Ups, Skills), Please Visit:
+- My Portfolio Website: [View Sami's Portfolio Website]([https://samicheema.com)
+- My LinkedIn Profile: [View Sami's LinkedIn Profile](https://www.linkedin.com/in/samicheema246/)
+- My Social Media Profiles: [View Sami's LinkTree](https://linktr.ee/)
 
-- 📫 How to reach me **contact@samicheema.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samicheema246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samicheema246" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/samich246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="samich246" height="30" width="40" /></a>
-<a href="https://fb.com/sami cheema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sami cheema" height="30" width="40" /></a>
-<a href="https://instagram.com/sami_cheema99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sami_cheema99" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/samich246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samich246" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samich246&" alt="samich246" /></p>
-
-![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamiCh246&count_private=true&theme=synthwave)
-
+_I would highly appreciate any sort of feedback/critique on my GitHub Projects/Profile, LinkedIn or Website!_
+<br>
+<br>
+_Plus: I have collaborated with amazing teams to further develop mobile and web applications alongside data science projects that I am unable to publish to respect the Non-Disclosure Agreements. It would be my pleasure to share the superficial mission with you!_
