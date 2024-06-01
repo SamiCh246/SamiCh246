@@ -1,13 +1,14 @@
-### <u>Hi there! Thank You For Viewing My GitHub Profile And Projects!</u>
-------------------------------------
+### Hi there! Thank you for viewing my GitHub profile and projects!
 
-#### If You Would Like To Know More About Me (Experiences, Leadership, Story, Start-Ups, Skills), Please Visit:
-- My Portfolio Website: [View Sami's Portfolio Website](https://samicheema.com)
-- My LinkedIn Profile: [View Sami's LinkedIn Profile](https://www.linkedin.com/in/samicheema246/)
-- My Social Media Profiles: [View Sami's LinkTree](https://linktr.ee/samicheema)
+---
 
-_I would highly appreciate any sort of feedback/critique on my GitHub Projects/Profile, LinkedIn or Website!_
+#### Want to know more about me? Check out my experiences, leadership roles, story, start-ups, and skills at:
+- **Portfolio Website:** [Visit Sami's Portfolio](https://samicheema.com)
+- **LinkedIn Profile:** [Connect with Sami on LinkedIn](https://www.linkedin.com/in/samicheema246/)
+- **Social Media:** [Explore Sami's LinkTree](https://linktr.ee/samicheema)
 
-_Plus: I have collaborated with amazing teams to further develop mobile and web applications alongside data science projects that I am unable to publish to respect the Non-Disclosure Agreements. It would be my pleasure to share the superficial mission with you!_
-<br>
-<br>
+I highly appreciate any feedback or critique on my GitHub projects, LinkedIn, or website!
+
+I've also had the opportunity to collaborate with amazing teams on mobile and web applications, as well as data science projects that I can't publish due to Non-Disclosure Agreements. I'd be delighted to share the overall mission and insights with you!
+
+---
