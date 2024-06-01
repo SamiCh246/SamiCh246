@@ -7,5 +7,7 @@
 - My Social Media Profiles: [View Sami's LinkTree](https://linktr.ee/samicheema)
 
 _I would highly appreciate any sort of feedback/critique on my GitHub Projects/Profile, LinkedIn or Website!_
+
+_Plus: I have collaborated with amazing teams to further develop mobile and web applications alongside data science projects that I am unable to publish to respect the Non-Disclosure Agreements. It would be my pleasure to share the superficial mission with you!_
 <br>
 <br>
